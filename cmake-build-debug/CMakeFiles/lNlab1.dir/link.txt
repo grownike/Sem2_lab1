@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/lNlab1.dir/main.c.o CMakeFiles/lNlab1.dir/complex.c.o CMakeFiles/lNlab1.dir/matrix.c.o CMakeFiles/lNlab1.dir/ringinfo.c.o -o lNlab1 
